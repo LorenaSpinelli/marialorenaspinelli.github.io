@@ -3,7 +3,7 @@
     background-color: rgb(200, 167, 238);
 }
 h1{
-    background-color: rgb(243, 158, 158);
+    background-color: rgb(248, 215, 215);
     padding: 2rem;
     font-style: italic;
     font-weight: bold;
@@ -45,4 +45,15 @@ span a{
     text-decoration: none;
     color: blue;
     
+}
+
+.lista{
+    font-size: 30px;
+}
+
+
+#mi_foto{
+    width: 15vw;
+    margin-top: 2vh;
+
 }
